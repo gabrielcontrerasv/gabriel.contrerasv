@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Contreras</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
-<div align="center"><p>I would like to know something different every day, but I am not perfect sometimes if I make mistakes you will feel my commitment to solve it</p></div>
+<div align="center"><p>I would like to know something different every day</p></div>
 
 - 🌱 I’m currently learning **React & springboot**
 
