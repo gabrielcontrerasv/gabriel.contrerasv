@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Contreras</h1>
 <h3 align="center">A passionate Software Engineer from Colombia</h3>
-<div align="center"><p>I would like to know something different every day</p></div>
 
-- 🌱 I’m currently learning **Graphql & Springboot**
+- 🌱 I’m currently improving my skills in **Graphql & Springboot**
 
 - 📫 How to reach me **gabriel.contrerasv3@gmail.com**
 
-- I have worked like a Software Developer in different kind of projects using Javascript, Typescript, PHP, Python and all SQL databases and some No SQL like Mongo and Redis I have used and worked with all operative Systems Windows,Linux and mac mainly using vagrant, docker or servers management,I am not the god of the software engineers but I am a commitment proffesional if I work with you I can assure you that my discipline help us to achieve all the goals with high quality products.
-
-- 📄 Know about my experiences in other areas, I used to work as head of technical support, software and hardware repairs supervising the assembly and configuration of various electronic devices, I have done various network infrastructure projects with brands such as aruba and cisco, electronic security systems and process automation for which used various technologies and control mechanisms, some in software development, others in hardware management,implementation and configuration.
+- I have experience as a Software Developer, working on diverse projects using JavaScript, TypeScript, PHP, Python, SQL databases (including MongoDB and Redis), and operating systems like Windows, Linux, and macOS. I am familiar with tools such as Vagrant, Docker, and server management. Additionally, I have worked as a head of technical support, overseeing software and hardware repairs and managing the assembly and configuration of electronic devices. I have also been involved in network infrastructure projects with brands like Aruba and Cisco, electronic security systems, and process automation using various technologies in both software and hardware domains.
 
 - ⚡ Fun fact **play videogames**
 
