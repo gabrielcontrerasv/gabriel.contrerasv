@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gabriel.contrerasv3@gmail.com**
 
-- I have experience as a Software Developer, working on diverse projects using JavaScript, TypeScript, PHP, Python, SQL databases (including MongoDB and Redis), and operating systems like Windows, Linux, and macOS. I am familiar with tools such as Vagrant, Docker, and server management. Additionally, I have worked as a head of technical support, overseeing software and hardware repairs and managing the assembly and configuration of electronic devices. I have also been involved in network infrastructure projects with brands like Aruba and Cisco, electronic security systems, and process automation using various technologies in both software and hardware domains.
+- I have experience as a Software Developer, working on diverse projects using JavaScript, TypeScript, PHP, Python, SQL and NoSQL databases (including MongoDB and Redis), and several operating systems Windows, Linux, and macOS. I am familiar with iac tools such as Vagrant, Docker, and server management. Additionally, I have worked as a head of technical support, overseeing software and hardware repairs and managing the assembly and configuration of electronic devices. I have also been involved in network infrastructure projects with brands like Aruba and Cisco, electronic security systems, and process automation using various technologies in both software and hardware domains.
 
 - ⚡ Fun fact **play videogames**
 
